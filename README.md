@@ -1,6 +1,6 @@
 # React-Redux
 
-This project was made for studying purposes, the code is not really the best (I could've splitted between components and folders correctly, but tried to keep everything "compact" 😅).
+This project was made for studying purposes, the code is not really the best (I could've splitted between components and folders correctly, but tried to keep everything "compact" 😅). There's nothing special visually, but you can test it [here](https://react-redux-usereducer.vercel.app/)
 
 ## Why?
 
