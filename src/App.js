@@ -55,6 +55,9 @@ function App() {
             </button>
           </div>
         </div>
+        <a href="https://github.com/caiodomingues" rel="noopener noreferrer">
+          Caio Domingues @ GitHub
+        </a>
       </header>
     </div>
   );
